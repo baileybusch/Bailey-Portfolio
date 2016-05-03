@@ -1392,21 +1392,14 @@ p.social a i {
   vertical-align: bottom;
   line-height: 40px;
 }
-p.social a.facebook {
+p.social a.linkedin {
   background-color: #4460ae;
   border-color: #4460ae;
-}
-p.social a.gplus {
-  background-color: #c21f25;
-  border-color: #c21f25;
 }
 p.social a.twitter {
   background-color: #3cf;
   border-color: #3cf;
 }
-p.social a.instagram {
-  background-color: #cd4378;
-  border-color: #cd4378;
 }
 p.social a.email {
   background-color: #4a7f45;
@@ -1419,21 +1412,15 @@ p.social a.link {
 p.social.social--outline a {
   background: transparent;
 }
-p.social.social--outline a.facebook {
+p.social.social--outline a.linkedin {
   color: #4460ae;
   border-color: #4460ae;
 }
-p.social.social--outline a.gplus {
-  color: #c21f25;
-  border-color: #c21f25;
 }
 p.social.social--outline a.twitter {
   color: #3cf;
   border-color: #3cf;
 }
-p.social.social--outline a.instagram {
-  color: #cd4378;
-  border-color: #cd4378;
 }
 p.social.social--outline a.email {
   color: #4a7f45;
