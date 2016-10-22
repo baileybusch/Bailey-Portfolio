@@ -382,7 +382,7 @@ a:active {
   padding-bottom: 0;
 }
 .footer__copyright {
-  background: #282c37;
+  background: #F4F4F4;
   color: #ccc;
   padding: 20px 0;
   font-size: 14px;
@@ -432,34 +432,6 @@ COPYRIGHT
 }
 /*
 
-=====================
-STYLE SWITCHER FOR DEMO
-=====================
-
-*/
-#style-switch-button {
-  position: fixed;
-  top: 120px;
-  left: 0px;
-  border-radius: 0;
-  z-index: 2;
-}
-#style-switch {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  width: 300px;
-  padding: 20px;
-  position: fixed;
-  top: 160px;
-  left: 0;
-  background: #fff;
-  border: solid 1px #eeeeee;
-  z-index: 2000;
-}
-#style-switch h4 {
-  color: #555555;
-}
 /* ========================================= */
 /* THEMING OF BOOTSTRAP COMPONENTS           */
 /* ========================================= */
@@ -830,7 +802,7 @@ body {
   background-color: #ffffff;
 }
 a {
-  color: #000;
+  color: #ccc;
   text-decoration: none;
 }
 a:hover,
