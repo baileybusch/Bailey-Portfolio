@@ -390,6 +390,7 @@ a:active {
 }
 .footer__copyright p {
   margin: 0;
+  color: #000;
 }
 @media (max-width: 991px) {
   .footer__copyright p {
